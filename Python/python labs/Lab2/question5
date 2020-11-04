@@ -1,0 +1,6 @@
+5 = integer
+5000 * 50000000 = integer
+'j' = string
+1j = complex
+(1,) = tuple
+[1] = list
